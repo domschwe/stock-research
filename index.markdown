@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+[Overall Market](/market/)
+
+[Individual Tickers](/tickers/)
