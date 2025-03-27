@@ -1,2 +1,2 @@
 # Tickers
-[MEG.TO](/MEG.TO/)
+[MEG.TO](/tickers//MEG.TO/)
