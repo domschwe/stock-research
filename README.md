@@ -1,5 +1,4 @@
-layout: page
-title: "Stock Research Files"
+# Stock Research Files
 
 [Overall Market](/market/)
 
